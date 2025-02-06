@@ -1,1 +1,2 @@
 # air-quality-predicat
+# I worked on a project involving air quality and pollution data, which contains many features that impact air quality and pollution levels. I performed data analysis to understand the characteristics and challenges in the dataset. Then, I conducted data preprocessing, including encoding the target feature, using StandardScaler to normalize numerical data, and RobustScaler to minimize the effect of outliers. Finally, I built an artificial neural network using TensorFlow GPU to enhance performance and evaluated the model, achieving a 96% accuracy score.
